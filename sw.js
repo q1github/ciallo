@@ -1,4 +1,4 @@
-const VERSION = "1733646920531";const preCache = ["/ciallo/images/taichi.png","/ciallo/images/banner.webp","/ciallo/css/loader.css","/ciallo/css/style.css","/ciallo/js/script.js"];const cacheDomain = [
+const VERSION = "1733648441685";const preCache = ["/ciallo/images/taichi.png","/ciallo/images/banner.webp","/ciallo/css/loader.css","/ciallo/css/style.css","/ciallo/js/script.js"];const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
   "unpkg.com",
